@@ -10,4 +10,8 @@ This simple app allows you to test various inset values so that you can arrive a
 3) Run the app and press top/bottom/left/right stepper buttons to vary insets. Accordingly the button image would change.  
 4) Once the intended button image appears, note down the inset values and use that in your App
 
+##Screenshot
+
+![Alt text](IMG_0204.PNG)
+
 
