@@ -1,6 +1,9 @@
 Inset-Tester
 ===============
 
+This project was developed as part of the iOS App: [My Things - Where Are They?] [link]   
+[link]: http://itunes.apple.com/us/app/my-things-where-are-they/id529353551?ls=1&mt=8
+
 When your iOS apps use custom buttons with button images, you need Button Insets in order to make the button appear without any distortion. 
 This simple app allows you to test various inset values so that you can arrive at the right inset values for intended button appearance.
 
