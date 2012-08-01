@@ -1,4 +1,4 @@
-##Inset-Tester
+Inset-Tester
 ===============
 
 When your apps use custom buttons with button images, you would have to use Button Insets in order to make the button appear without any distortion. 
