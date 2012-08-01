@@ -1,11 +1,9 @@
-Inset-Tester
-============
+##Inset-Tester
 
 When your apps use custom buttons with button images, you would have to use Button Insets in order to make the button appear without any distortion. 
 This simple app allows you to test various inset values so that you can arrive at the right inset values for intended button appearance.
 
-Instructions
-=============
+##Instructions
 
 1) Open the iPhone or iPad Storyboard and resize the button to your intended button size.
 2) Replace "TestButtonImage.png" with your own button image.
