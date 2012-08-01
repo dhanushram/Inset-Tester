@@ -12,6 +12,6 @@ This simple app allows you to test various inset values so that you can arrive a
 
 ##Screenshot
 
-<img width=300 src="https://github.com/honcheng/PaperFold-for-iOS/raw/master/Screenshots/leftfold.gif"/>
+<img width=300 src="https://github.com/dhanushram/Inset-Tester/blob/master/screenshot.png"/>
 
 
