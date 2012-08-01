@@ -2,7 +2,7 @@ Inset-Tester
 ============
 
 If your apps use custom buttons with button images, you would have to use Button Insets in order to make the button appear without any distortion. 
-This app allows you to test various inset values so that you can arrive at the right inset values.
+This app allows you to test various inset values so that you can arrive at chose the right inset values for intended look.
 
 Instructions
 =============
