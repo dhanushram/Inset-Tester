@@ -12,6 +12,6 @@ This simple app allows you to test various inset values so that you can arrive a
 
 ##Screenshot
 
-![Alt text](IMG_0204.PNG)
+![Alt text](/IMG_0204.PNG)
 
 
