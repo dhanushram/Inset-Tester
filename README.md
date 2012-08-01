@@ -13,6 +13,4 @@ This simple app allows you to test various inset values so that you can arrive a
 
 ##Screenshot
 
-<img src="https://github.com/dhanushram/Inset-Tester/master/Screenshots/screenshot.png"/>
-
-
+![Alt text] (/dhanushram/Inset-Tester/blob/master/Screenshots/screenshot.png)
