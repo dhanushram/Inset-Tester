@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C1B0269D15C998B400F71F41 /* IMG_0204.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0204.PNG; sourceTree = "<group>"; };
+		C1B0269D15C998B400F71F41 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		C1E5373B15C8B26C00E4EDC2 /* Inset.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Inset.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1E5373F15C8B26C00E4EDC2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C1E5374115C8B26C00E4EDC2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -55,7 +55,7 @@
 		C1E5373015C8B26B00E4EDC2 = {
 			isa = PBXGroup;
 			children = (
-				C1B0269D15C998B400F71F41 /* IMG_0204.PNG */,
+				C1B0269D15C998B400F71F41 /* screenshot.png */,
 				C1E5374515C8B26C00E4EDC2 /* Inset */,
 				C1E5373E15C8B26C00E4EDC2 /* Frameworks */,
 				C1E5373C15C8B26C00E4EDC2 /* Products */,
