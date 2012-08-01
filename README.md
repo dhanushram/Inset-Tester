@@ -20,3 +20,8 @@ This simple app allows you to test various inset values so that you can arrive a
 ##License
 Copyright (c) 2012 Dhanush Balachandran  
 Licensed under the MIT license.
+
+##Contact
+[My Things Support] [support] or [Support Email] [email]
+[support]: http://www.mythingsapp.com/Support.html
+[email]: mailto:support@mythingsapp.com
