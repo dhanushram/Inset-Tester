@@ -52,10 +52,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C1E5373015C8B26B00E4EDC2 = {
+		C1B026B015C99CD500F71F41 /* Screenshot */ = {
 			isa = PBXGroup;
 			children = (
 				C1B0269D15C998B400F71F41 /* screenshot.png */,
+			);
+			name = Screenshot;
+			sourceTree = "<group>";
+		};
+		C1E5373015C8B26B00E4EDC2 = {
+			isa = PBXGroup;
+			children = (
+				C1B026B015C99CD500F71F41 /* Screenshot */,
 				C1E5374515C8B26C00E4EDC2 /* Inset */,
 				C1E5373E15C8B26C00E4EDC2 /* Frameworks */,
 				C1E5373C15C8B26C00E4EDC2 /* Products */,
