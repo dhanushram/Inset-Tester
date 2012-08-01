@@ -18,5 +18,5 @@ This simple app allows you to test various inset values so that you can arrive a
 [ss]:https://github.com/dhanushram/Inset-Tester/blob/master/Screenshots/screenshot.png
 
 ##License
-Copyright (c) 2012 Dhanush Balachandran
+Copyright (c) 2012 Dhanush Balachandran  
 Licensed under the MIT license.
