@@ -12,6 +12,6 @@ This simple app allows you to test various inset values so that you can arrive a
 
 ##Screenshot
 
-[id]: https://github.com/dhanushram/Inset-Tester/blob/master/IMG_0204.PNG  "screenshot"
+<img src="https://github.com/dhanushram/Inset-Tester/blob/master/IMG_0204.PNG">
 
 
