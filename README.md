@@ -1,4 +1,4 @@
-Inset-Tester
+Inset Tester iOS
 ===============
 
 This project was developed as part of the iOS App: [My Things - Where Are They?] [link]   
